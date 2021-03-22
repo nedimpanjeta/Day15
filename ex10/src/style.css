@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    width: 80px;
+    
+}
+
+nav ul li {
+    display: inline-block;
+}
